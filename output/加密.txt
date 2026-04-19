@@ -1,2 +1,12 @@
-- 小米💜线路 - https://mitvbox.xyz/小米/DEMO.json
-- 🚀14-无意线路 - https://www.wya6.cn/tv/yc.json
+{
+  "urls": [
+    {
+      "name": "小米💜线路",
+      "url": "https://mitvbox.xyz/小米/DEMO.json"
+    },
+    {
+      "name": "14-无意线路",
+      "url": "https://www.wya6.cn/tv/yc.json"
+    }
+  ]
+}
