@@ -2,15 +2,15 @@
   "storeHouse": [
     {
       "sourceName": "🍈多线路接口",
-      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/zqhtym/IPTV/refs/heads/main/多线路接口.txt"
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/zqhtym/IPTV/refs/heads/main/output/多线路接口.txt"
     },
     {
       "sourceName": "🍈多线路接口zq",
-      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/zqhtym/IPTV/refs/heads/main/多线路接口zq.txt"
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/zqhtym/IPTV/refs/heads/main/output/多线路接口zq.txt"
     },
     {
       "sourceName": "🍈一木低多线路低中",
-      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/zqhtym/IPTV/refs/heads/main/一木低多线路低中.json"
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/zqhtym/IPTV/refs/heads/main/output/一木低多线路低中.json"
     },
     {
       "sourceName": "🍈高风险系列",
