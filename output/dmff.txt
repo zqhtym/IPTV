@@ -5,8 +5,8 @@
       "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/zqhtym/IPTV/refs/heads/main/output/多线路接口.txt"
     },
     {
-      "sourceName": "🍈多线路接口zq",
-      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/zqhtym/IPTV/refs/heads/main/output/多线路接口zq.txt"
+      "sourceName": "🍈多线路接口续",
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/zqhtym/IPTV/refs/heads/main/output/多线路接口续.txt"
     },
     {
       "sourceName": "🍈一木低多线路低中",
