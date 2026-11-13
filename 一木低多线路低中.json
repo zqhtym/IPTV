@@ -1,0 +1,34 @@
+//2026-11-14 安全检查：低、中风险线路（详见 alter/安全检查报告.md）
+//【中】含跳转到博彩/色情网站的站点；【低】含少量过期后被抢注、停放的域名。不要点开名字陌生的站点
+{
+    "urls": [
+        {
+            "url": "https://jihulab.com/bh666/YGBH/-/raw/main/ygbox.json",
+            "name": "【中】🧊月光宝盒"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
+            "name": "【中】🚀宝盒线路"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "【中】🚀高天流云js"
+        },
+        {
+            "url": "https://raw.liucn.cc/box/m.json",
+            "name": "【低】💖老刘备/liucc"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "【低】🚀南风"
+        },
+        {
+            "url": "https://www.yingm.cc/dm/dm.json",
+            "name": "【低】动漫城"
+        },
+        {
+            "url": "http://肥猫.net",
+            "name": "【低】🚀肥猫"
+        }
+    ]
+}
