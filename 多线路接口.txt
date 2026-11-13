@@ -1,106 +1,55 @@
-//Ä¿Ç°À¬»øÏßÂ·ÓĞ ÀÏÁõ±¸
+//ç›®å‰åƒåœ¾çº¿è·¯æœ‰ è€åˆ˜å¤‡
+//2026-11-14 æ£€æµ‹ä¿®è®¢ï¼šå·²åˆ é™¤å¤±æ•ˆçº¿è·¯ã€ä¿®æ­£å¤±æ•ˆä»£ç†/åŸŸåï¼ˆæ˜ç»†è§ alter/æ£€æµ‹æŠ¥å‘Š.mdï¼‰
+//åŸæ–‡ä»¶ä¸º GBK ç¼–ç ï¼Œå·²è½¬ä¸º UTF-8
 {
     "urls": [
         {
             "url": "",
-            "name": "????½Ó¿Ú¸üĞÂ4.14????"
+            "name": "ğŸŠğŸŠæ¥å£æ›´æ–°4.14ğŸŠğŸŠ"
         },
         {
             "url": "",
-            "name": "??´Ë½Ó¿ÚÃâ·Ñ½ûÖ¹··Âô??"
+            "name": "ğŸ€æ­¤æ¥å£å…è´¹ç¦æ­¢è´©å–ğŸ€"
         },
         {
-            "url": "http://·¹Ì«Ó².top/tv",
-            "name": "??·¹Ì«Ó²ÍÆ¼ö"
+            "url": "http://www.é¥­å¤ªç¡¬.net/tv",
+            "name": "ğŸš€é¥­å¤ªç¡¬æ¨è"
         },
         {
-            "url": "http://xhww.fun:63/Ğ¡Ã×/DEMO.json",
-            "name": "??Ğ¡Ã×ÍÆ¼ö"
+            "url": "http://www.é¥­å¤ªç¡¬.cc/tv",
+            "name": "ğŸš€é¥­å¤ªç¡¬å¤‡ç”¨"
         },
         {
-            "url": "http://fan.xxooo.cf/tv",
-            "name": "??·¹Ì«Ó²±¸ÓÃ"
-        },
-        {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
-            "name": "??±¦ºĞÏßÂ·"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
+            "name": "ğŸš€å®ç›’çº¿è·¯"
         },
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json",
-            "name": "??ÏãÑÅÇé¾µÏñÏßÂ·"
+            "name": "ğŸš€é¦™é›…æƒ…é•œåƒçº¿è·¯"
         },
         {
-            "url": "https://xn--3d2a1b.eu.org/",
-            "name": "??·äÃÛÏßÂ·ÍÆ¼ö"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
+            "name": "ğŸš€FongMIçº¿è·¯"
         },
         {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
-            "name": "??¿á°²äìÈ÷¸çÏßÂ·"
+            "url": "https://tv.xn--yhqu5zs87a.top",
+            "name": "ğŸš€èœå¦®ä¸ XBPQ"
         },
         {
-            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
-            "name": "??FongMIÏßÂ·"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "ğŸš€é«˜å¤©æµäº‘js"
         },
         {
-            "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "??ÇÉ¼ÆÏßÂ·"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "name": "ğŸš€é«˜å¤©æµäº‘ XYQ"
         },
         {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lxhfans/TV/master/tv.txt",
-            "name": "??ÀÖÏí»ãÏßÂ·"
-        },
-        {
-            "url": "http://t.84jia.com:80/tvbox/tvbox.json",
-            "name": "??Ğ¡ÓãÏßÂ·"
-        },
-        {
-            "url": "https://weixine.net/ysc.json",
-            "name": "??ÔËÊä³µÂ·"
-        },
-        {
-            "url": "http://rihou.cc:99/ºÉ³Ç²èĞã",
-            "name": "??ºÉ³Ç²èĞãÏßÂ·"
-        },
-        {
-            "url": "http://itvbox.cc/tvbox/ÔÆĞÇÈÕ¼Ç/1.m3u8",
-            "name": "??ÔÆĞÇÈÕ¼ÇÏßÂ·"
-        },
-        {
-            "url": "https://100km.top/0",
-            "name": "??É§ 0ÏßÂ·"
-        },
-        {
-            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
-            "name": "??Ëª»ÔÔÂÃ÷ py"
-        },
-        {
-            "url": "https://tvbox.cainisi.cf",
-            "name": "??²ËÄİË¿ XBPQ"
-        },
-        {
-            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "??¸ßÌìÁ÷ÔÆjs"
-        },
-        {
-            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-            "name": "??¸ßÌìÁ÷ÔÆ XYQ"
-        },
-        {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "??ÄÏ·çÏßÂ·"
-        },
-        {
-            "url": "https://ÉñÆ÷Ã¿ÈÕÍÆËÍ.tk/pz.json",
-            "name": "??ÉñÆ÷ÏßÂ·"
-        },
-        {
-            "url": "http://www.lyyytv.cn/yt/yt.json",
-            "name": "??Ó°Ì½ÏßÂ·"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "ğŸš€å—é£çº¿è·¯"
         },
         {
             "url": "http://dxawi.github.io/0/0.json",
-            "name": "??dxawiÏßÂ·"
+            "name": "ğŸš€dxawiçº¿è·¯"
         }
     ]
 }
-

@@ -1,0 +1,36 @@
+{
+  "urls": [
+    {
+      "name": "🚀一木自用（旧版）",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/zqhtym/IPTV/refs/heads/main/一木自用.json"
+    },
+    {
+      "name": "🚀一木cs（旧版）",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/zqhtym/IPTV/refs/heads/main/一木cs.json"
+    },
+    {
+      "name": "🚀饭太硬备用",
+      "url": "http://www.饭太硬.cc/tv"
+    },
+    {
+      "name": "🚀宝盒线路",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json"
+    },
+    {
+      "name": "🚀香雅情镜像",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/XYQTVBox/xyq.json"
+    },
+    {
+      "name": "🚀HG线路（结果较少）",
+      "url": "https://api.hgyx.vip/hgyx.json"
+    },
+    {
+      "name": "🚀小林（首次加载较慢）",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json"
+    },
+    {
+      "name": "🚀dxawi线路",
+      "url": "http://dxawi.github.io/0/0.json"
+    }
+  ]
+}

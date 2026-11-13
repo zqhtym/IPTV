@@ -1,4 +1,5 @@
 //目前20260114
+//2026-11-14 检测修订：已删除失效线路、修正失效代理/域名（明细见 alter/检测报告.md）
 {
     "urls": [
         {
@@ -6,32 +7,12 @@
             "name": "🐊🐊接口更新4.14🐊🐊"
         },
         {
-            "url": "http://肥猫.com/",
+            "url": "http://肥猫.net",
             "name": "肥猫"
         },
         {
-            "url": "http://www.饭太硬.com/tv",
+            "url": "http://www.饭太硬.net/tv",
             "name": "饭太硬推荐"
-        },
-        {
-            "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "🚀巧计线路"
-        },
-        {
-            "url": "http://www.lyyytv.cn/yt/yt.json",
-            "name": "🚀影探线路"
-        },
-        {
-            "url": "https://毒盒.com/tv",
-            "name": "毒盒单线"
-        },
-        {
-            "url": "http://xhztv.top/4k.json",
-            "name": "聚玩盒子4K"
-        },
-        {
-            "url": "http://cdn.qiaoji8.com/tvbox.json",
-            "name": "巧记"
         },
         {
             "url": "https://raw.liucn.cc/box/m.json",
@@ -42,14 +23,6 @@
             "name": "挺好分享"
         },
         {
-            "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
-            "name": "道长"
-        },
-        {
-            "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json",
-            "name": "炫猪"
-        },
-        {
             "url": "https://api.hgyx.vip/hgyx.json",
             "name": "HG线路（结果较少）"
         },
@@ -58,13 +31,8 @@
             "name": "小林（首次加载较慢）"
         },
         {
-            "url": "https://9xi4o.tk/tvbox.json",
-            "name": "盐枭（时不时添加不进去）"
-        },
-        {
             "url": "http://dxawi.github.io/0/0.json",
             "name": "🚀dxawi线路"
         }
     ]
 }
-

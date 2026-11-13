@@ -1,20 +1,12 @@
 {
   "urls": [
     {
-      "name": "Hell💜线路",
-      "url": "https://catbox.n13.club/jk/jsm.json"
-    },
-    {
       "name": "liucc💜线路",
-      "url": "http://liucn.cc/box/m.json"
+      "url": "https://raw.liucn.cc/box/m.json"
     },
     {
       "name": "动漫城💜线路",
       "url": "https://www.yingm.cc/dm/dm.json"
-    },
-    {
-      "name": "巧技💜线路",
-      "url": "http://cdn.qiaoji8.com/tvbox.json"
     },
     {
       "name": "放牛娃💜线路",
@@ -22,7 +14,7 @@
     },
     {
       "name": "欧歌💜线路",
-      "url": "https://xn--9ff9-rp5imh.v.nxog.top/m/?ou=公众号欧歌app&mz=index&jar=index&b=9f欧歌f9"
+      "url": "https://xn--9ff9-rp5imh.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=9f欧歌f9"
     },
     {
       "name": "欧歌💜线路",
@@ -31,10 +23,6 @@
     {
       "name": "菜妮丝💜线路",
       "url": "https://tv.xn--yhqu5zs87a.top"
-    },
-    {
-      "name": "🏄️恋影线路",
-      "url": "https://www.lianyingtv.com/fast/fast"
     }
   ]
 }
