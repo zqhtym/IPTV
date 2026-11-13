@@ -1,24 +1,12 @@
 {
   "storeHouse": [
     {
-      "sourceName": "🍈编号系列",
-      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/zqhtym/IPTV/refs/heads/main/output/编号系列.txt"
+      "sourceName": "🍈多线路接口",
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/zqhtym/IPTV/refs/heads/main/多线路接口.txt"
     },
     {
-      "sourceName": "🍈多条线路系列",
-      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/zqhtym/IPTV/refs/heads/main/output/多条线路系列.txt"
-    },
-    {
-      "sourceName": "🍈挺好系列",
-      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/zqhtym/IPTV/refs/heads/main/output/挺好系列.txt"
-    },
-    {
-      "sourceName": "🍈线路系列",
-      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/zqhtym/IPTV/refs/heads/main/output/线路系列.txt"
-    },
-    {
-      "sourceName": "🍈补充系列",
-      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/zqhtym/IPTV/refs/heads/main/output/补充系列.txt"
+      "sourceName": "🍈多线路接口zq",
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/zqhtym/IPTV/refs/heads/main/多线路接口zq.txt"
     }
   ]
 }
