@@ -21,10 +21,6 @@
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/XYQTVBox/xyq.json"
     },
     {
-      "name": "🚀HG线路（结果较少）",
-      "url": "https://api.hgyx.vip/hgyx.json"
-    },
-    {
       "name": "🚀小林（首次加载较慢）",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json"
     },

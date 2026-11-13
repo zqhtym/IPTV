@@ -23,10 +23,6 @@
             "name": "挺好分享"
         },
         {
-            "url": "https://api.hgyx.vip/hgyx.json",
-            "name": "HG线路（结果较少）"
-        },
-        {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json",
             "name": "小林（首次加载较慢）"
         },
