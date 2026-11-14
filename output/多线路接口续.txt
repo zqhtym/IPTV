@@ -1,6 +1,7 @@
 //目前20260114
 //2026-11-14 检测修订：已删除失效线路、修正失效代理/域名（明细见 检测报告.md）
-//2026-11-14 安全检查：未发现危险链接的 28 条分两个文件存放，本文件为第 15–28 条，第 1–14 条见 output/多线路接口.txt；低中风险线路见 output/一木低多线路低中.json，高风险见 output/高风险系列.txt（详见 安全检查报告.md）
+//2026-11-14 安全检查：未发现危险链接的 27 条分两个文件存放，本文件为第 15–27 条，第 1–14 条见 output/多线路接口.txt；低中风险线路见 output/一木低多线路低中.json，高风险见 output/高风险系列.txt（详见 安全检查报告.md）
+//2026-11-14 在线体检：已移出 🚀dxawi线路（http://dxawi.github.io/0/0.json）。它的 jar 放在 Zoho 网盘，全天返回 HTTP 429（下载次数受限），48 个站点里 38 个依赖这个 jar，加载后大部分打不开
 {
     "urls": [
         {
@@ -26,10 +27,6 @@
         {
             "url": "https://tv.xn--yhqu5zs87a.top",
             "name": "🚀菜妮丝"
-        },
-        {
-            "url": "http://dxawi.github.io/0/0.json",
-            "name": "🚀dxawi线路"
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/zqhtym/IPTV/refs/heads/main/一木自用.json",
