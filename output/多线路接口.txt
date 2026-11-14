@@ -1,7 +1,7 @@
 //目前垃圾线路有 老刘备
 //2026-11-14 检测修订：已删除失效线路、修正失效代理/域名（明细见 检测报告.md）
 //原文件为 GBK 编码，已转为 UTF-8
-//2026-11-14 安全检查：未发现危险链接的 17 条分两个文件存放，本文件为第 1–9 条，第 10–17 条见 output/多线路接口续.txt；低中风险线路见 output/一木低多线路低中.json，高风险见 output/高风险系列.txt（详见 安全检查报告.md）
+//2026-11-14 安全检查：未发现危险链接的 21 条分两个文件存放，本文件为第 1–11 条，第 12–21 条见 output/多线路接口续.txt；低中风险线路见 output/一木低多线路低中.json，高风险见 output/高风险系列.txt（详见 安全检查报告.md）
 {
     "urls": [
         {
@@ -21,12 +21,20 @@
             "name": "🚀饭太硬备用"
         },
         {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/0826.json",
+            "name": "🚀饭太硬（qist 0826）"
+        },
+        {
             "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
             "name": "🚀健康家用"
         },
         {
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
             "name": "🚀王二小"
+        },
+        {
+            "url": "http://new.王二小放牛娃.top",
+            "name": "🚀王二小（新版）"
         },
         {
             "url": "http://tv.999888987.xyz",

@@ -1,6 +1,6 @@
 //目前20260114
 //2026-11-14 检测修订：已删除失效线路、修正失效代理/域名（明细见 检测报告.md）
-//2026-11-14 安全检查：未发现危险链接的 17 条分两个文件存放，本文件为第 10–17 条，第 1–9 条见 output/多线路接口.txt；低中风险线路见 output/一木低多线路低中.json，高风险见 output/高风险系列.txt（详见 安全检查报告.md）
+//2026-11-14 安全检查：未发现危险链接的 21 条分两个文件存放，本文件为第 12–21 条，第 1–11 条见 output/多线路接口.txt；低中风险线路见 output/一木低多线路低中.json，高风险见 output/高风险系列.txt（详见 安全检查报告.md）
 {
     "urls": [
         {
@@ -38,6 +38,14 @@
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/zqhtym/IPTV/refs/heads/main/一木cs.json",
             "name": "🚀一木cs（旧版）"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json",
+            "name": "🚀潇洒（qist）"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/tvbox.json",
+            "name": "🚀Tomorrow"
         }
     ]
 }
