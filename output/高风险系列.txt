@@ -1,6 +1,7 @@
 //2026-11-14 安全检查：高风险线路，不建议在 TVBox 中使用（详见 安全检查报告.md）
 //香雅情镜像：站点 www.tbsdy.com 跳转博彩站；解析接口 www.miaoys.cc 在威胁情报库中且已被抢注；解析接口 kk.hdjh.xyz 页面含博彩广告
 //小林：直播源「垃圾堆成山」含色情频道；解析接口 60jx.com 被抢注后跳转六合彩论坛；解析接口 www.miaoys.cc 在威胁情报库中且已被抢注；jar（小🍎.jar）读取设备号
+//🔞 qist 9918、qist 99188、snailwalk fun（2026-11-14 网上新找）：含 20 余个成人站点（MissAV、JavBus、麻豆等）和成人直播源，部分直播列表放在匿名文件站 qu.ax，内容随时可能被换；家里有未成年人使用 TVBox 时不要启用本仓
 {
     "urls": [
         {
@@ -10,6 +11,18 @@
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json",
             "name": "【高】🚀小林（首次加载较慢）"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/9918.json",
+            "name": "【高】🔞qist 9918"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/99188.json",
+            "name": "【高】🔞qist 99188"
+        },
+        {
+            "url": "https://gitea.com/snailwalk/tvbox/raw/branch/main/fun.json",
+            "name": "【高】🔞snailwalk fun"
         }
     ]
 }
