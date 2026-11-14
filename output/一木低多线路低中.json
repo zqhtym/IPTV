@@ -2,6 +2,7 @@
 //【中】含跳转到博彩/色情网站的站点，或 jar 存在安全隐患、行为无法确认；【低】含少量过期后被抢注、停放的域名。不要点开名字陌生的站点
 //摸鱼线路：链接与站点主页未发现危险；jar 重度混淆、字符串加密并带反调试，拼图/嗑剧/凝光/素笺/云岫/竹隐/玉阶/香篆 8 个站点会读取一项被隐藏的系统设置（疑似设备 ID），发往哪里无法确认
 //小马线路：无博彩、色情内容；但「秒看」「还行」所用 jar 会从客服平台文件空间 7moor-fs1.com 下载伪装成 png 的 mediaProxy 程序，不做校验即加执行权限后台运行（该文件目前 403）；解析接口 jx.m3u8.pw 已被抢注导流；直播源「手动不知何时更新」含威胁情报主机 cfss.cc、qwas.eatuo.com
+//2026-11-14 网上新找的【低】风险线路（饭太硬增强版起 13 条）：只有被抢注、停放的域名，或站点、直播源中出现威胁情报主机（cfss.cc、epg.cdn.loc.cc、meow.tg、dbzy.tv 等）；xgg（rose）的 jar 未锁 md5；jigedos 1024 改用 gh-proxy（汇总页原用的代理来路不明）；qist dianshi 与 jsm 几乎相同，未重复加入
 {
     "urls": [
         {
@@ -39,6 +40,58 @@
         {
             "url": "http://肥猫.net",
             "name": "【低】🚀肥猫"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/0821.json",
+            "name": "【低】🚀饭太硬增强版（qist 0821）"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/0825.json",
+            "name": "【低】🚀PG精简版（qist 0825）"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+            "name": "【低】🚀家庭电视（qist jsm）"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/tmoom/ttkx/main/t.json",
+            "name": "【低】🚀天天开心（tmoom）"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/tmoom/xh/main/t.json",
+            "name": "【低】🚀tmoom xh"
+        },
+        {
+            "url": "https://gitea.com/snailwalk/tvbox/raw/branch/main/jsm.json",
+            "name": "【低】🚀snailwalk jsm"
+        },
+        {
+            "url": "https://jihulab.com/z-blog/vip/-/raw/main/dd/t.json",
+            "name": "【低】🚀z-blog dd"
+        },
+        {
+            "url": "https://jihulab.com/z-blog/vip/-/raw/main/xm/t.json",
+            "name": "【低】🚀z-blog xm"
+        },
+        {
+            "url": "https://jihulab.com/z-blog/vip/-/raw/main/ysc/t.json",
+            "name": "【低】🚀z-blog ysc"
+        },
+        {
+            "url": "http://xhztv.top/xhz",
+            "name": "【低】🚀小盒子（xhz）"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/jigedos/1024/master/jsm.json",
+            "name": "【低】🚀jigedos 1024"
+        },
+        {
+            "url": "https://pastebin.com/raw/gtbKvnE1",
+            "name": "【低】🚀pastebin 合集"
+        },
+        {
+            "url": "http://47.96.82.41:5188/rose/18/xgg.json",
+            "name": "【低】🚀xgg（rose）"
         }
     ]
 }
