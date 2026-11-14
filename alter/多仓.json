@@ -1,0 +1,14 @@
+//多仓
+//2026-11-14 检测修订：已删除失效线路、修正失效代理/域名（明细见 alter/检测报告.md）
+{
+  "storeHouse": [
+    {
+      "sourceName": "🌚3.29更新",
+      "sourceUrl": ""
+    },
+    {
+      "sourceName": "🌲一木多仓推荐",
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木多线路.json"
+    }
+  ]
+}
