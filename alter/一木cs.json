@@ -276,11 +276,11 @@
       "key": "csp_xp_tjyy",
       "name": "💢奇优影院〔XB〕",
       "type": 3,
-      "api": "csp_XPathMac",
+      "api": "csp_XYQBiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/奇优.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/zqhtym/IPTV/refs/heads/main/奇优.json"
     },
     {
       "key": "csp_biubiu_voflix",
