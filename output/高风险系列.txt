@@ -2,6 +2,7 @@
 //香雅情镜像：站点 www.tbsdy.com 跳转博彩站；解析接口 www.miaoys.cc 在威胁情报库中且已被抢注；解析接口 kk.hdjh.xyz 页面含博彩广告
 //小林：直播源「垃圾堆成山」含色情频道；解析接口 60jx.com 被抢注后跳转六合彩论坛；解析接口 www.miaoys.cc 在威胁情报库中且已被抢注；jar（小🍎.jar）读取设备号
 //🔞 qist 9918、qist 99188、snailwalk fun（2026-11-14 网上新找）：含 20 余个成人站点（MissAV、JavBus、麻豆等）和成人直播源，部分直播列表放在匿名文件站 qu.ax，内容随时可能被换；家里有未成年人使用 TVBox 时不要启用本仓
+//2026-11-14 笔记新增：风水（fxz）解析接口 www.cgdyw.net 在威胁情报库；七星影仓至尊版（bestpvp）解析接口 jx.googe.cc 在威胁情报库、站点「中国人」跳转色情站、近半站点 jar 已失效；🔞clun 含成人站 4k-av.com，jar 会从 7moor 下载程序不校验即执行；🔞小虎斑含「4Kav」站点，疑似同一成人站（jar 加密无法确认）
 {
     "urls": [
         {
@@ -23,6 +24,22 @@
         {
             "url": "https://gitea.com/snailwalk/tvbox/raw/branch/main/fun.json",
             "name": "【高】🔞snailwalk fun"
+        },
+        {
+            "url": "http://hucongrong.web3v.work/风水/fxz/fxz.json",
+            "name": "【高】🚀风水（fxz）"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/main.json",
+            "name": "【高】🚀七星影仓至尊版（bestpvp）"
+        },
+        {
+            "url": "https://clun.top/box.json",
+            "name": "【高】🔞clun"
+        },
+        {
+            "url": "http://hb.小虎斑.site:25252/仅供测试",
+            "name": "【高】🔞小虎斑"
         }
     ]
 }

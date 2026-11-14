@@ -1,6 +1,6 @@
 //目前20260114
 //2026-11-14 检测修订：已删除失效线路、修正失效代理/域名（明细见 检测报告.md）
-//2026-11-14 安全检查：未发现危险链接的 21 条分两个文件存放，本文件为第 12–21 条，第 1–11 条见 output/多线路接口.txt；低中风险线路见 output/一木低多线路低中.json，高风险见 output/高风险系列.txt（详见 安全检查报告.md）
+//2026-11-14 安全检查：未发现危险链接的 28 条分两个文件存放，本文件为第 15–28 条，第 1–14 条见 output/多线路接口.txt；低中风险线路见 output/一木低多线路低中.json，高风险见 output/高风险系列.txt（详见 安全检查报告.md）
 {
     "urls": [
         {
@@ -46,6 +46,22 @@
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/tvbox.json",
             "name": "🚀Tomorrow"
+        },
+        {
+            "url": "https://d.kstore.dev/download/6492/xnf/xnf.json",
+            "name": "🚀XNF"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
+            "name": "🚀YW（yw88075）"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yyfxz/yyrh/main/ymz/ymz.json",
+            "name": "🚀牛肉仓·ymz"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json",
+            "name": "🚀PyramidStore（需 Python）"
         }
     ]
 }

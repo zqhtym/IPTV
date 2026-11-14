@@ -1,7 +1,7 @@
 //目前垃圾线路有 老刘备
 //2026-11-14 检测修订：已删除失效线路、修正失效代理/域名（明细见 检测报告.md）
 //原文件为 GBK 编码，已转为 UTF-8
-//2026-11-14 安全检查：未发现危险链接的 21 条分两个文件存放，本文件为第 1–11 条，第 12–21 条见 output/多线路接口续.txt；低中风险线路见 output/一木低多线路低中.json，高风险见 output/高风险系列.txt（详见 安全检查报告.md）
+//2026-11-14 安全检查：未发现危险链接的 28 条分两个文件存放，本文件为第 1–14 条，第 15–28 条见 output/多线路接口续.txt；低中风险线路见 output/一木低多线路低中.json，高风险见 output/高风险系列.txt（详见 安全检查报告.md）
 {
     "urls": [
         {
@@ -55,6 +55,18 @@
         {
             "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
             "name": "🎶讴歌〔多条线路〕"
+        },
+        {
+            "url": "http://liucn.cc/box/dc/ou/ou.json",
+            "name": "🚀刘备仓·ou"
+        },
+        {
+            "url": "http://liucn.cc/box/dc/lns/lns.json",
+            "name": "🚀刘备仓·lns"
+        },
+        {
+            "url": "http://home.jundie.top:81/TVBox/yosakoi.json",
+            "name": "🚀俊佬 yosakoi"
         }
     ]
 }
