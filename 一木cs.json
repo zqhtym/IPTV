@@ -378,15 +378,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_Yj1211",
-      "name": "📱游戏直播",
-      "type": 3,
-      "api": "csp_Yj1211",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_XYQBiu_虎牙直播",
       "name": "🐯虎牙直播",
       "type": 3,
