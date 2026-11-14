@@ -4,6 +4,7 @@
 //小马线路：无博彩、色情内容；但「秒看」「还行」所用 jar 会从客服平台文件空间 7moor-fs1.com 下载伪装成 png 的 mediaProxy 程序，不做校验即加执行权限后台运行（该文件目前 403）；解析接口 jx.m3u8.pw 已被抢注导流；直播源「手动不知何时更新」含威胁情报主机 cfss.cc、qwas.eatuo.com
 //2026-11-14 网上新找的【低】风险线路（饭太硬增强版起 13 条）：只有被抢注、停放的域名，或站点、直播源中出现威胁情报主机（cfss.cc、epg.cdn.loc.cc、meow.tg、dbzy.tv 等）；xgg（rose）的 jar 未锁 md5；jigedos 1024 改用 gh-proxy（汇总页原用的代理来路不明）；qist dianshi 与 jsm 几乎相同，未重复加入
 //2026-11-14 笔记新增：【低】牛肉仓（yyfxz/yyrh 转存）9 条共用的直播源含威胁情报主机 gxfrg007.8800.org、fyld.eatuo.com；【低】HG线路格式不规范，只做了文本检查；【中】牛肉仓·gtly 含疑似成人站 91free（目前打不开）；【中】刘备仓·fan 的 jar 会从客服平台 7moor 下载 mediaProxy 程序，不校验即执行
+//2026-11-14 笔记补查：【中】黄金影视（hjys）站点「酷影｜影视」的域名 tvkuys.xyz 已被博彩导流接管，首页跳转「开云」注册页（带邀请码）；站点规则用到的 haoxi.vip 已被停放导流；配置 2024-07 后未再更新，约三成站点已失效；文件放在 GitLab，短时间内反复刷新可能被限流（HTTP 429）
 {
     "urls": [
         {
@@ -33,6 +34,10 @@
         {
             "url": "http://liucn.cc/box/dc/fan/fan.json",
             "name": "【中】🚀刘备仓·fan"
+        },
+        {
+            "url": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json",
+            "name": "【中】🚀黄金影视·hjys"
         },
         {
             "url": "https://raw.liucn.cc/box/m.json",
