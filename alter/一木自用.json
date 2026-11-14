@@ -330,6 +330,16 @@
       "filterable": 1
     },
     {
+      "key": "csp_XYQBiu_虎牙直播",
+      "name": "🐯虎牙直播",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/zqhtym/IPTV/refs/heads/main/虎牙直播.json"
+    },
+    {
       "key": "csp_biubiu_斗鱼",
       "name": "🦈斗鱼直播",
       "type": 3,
